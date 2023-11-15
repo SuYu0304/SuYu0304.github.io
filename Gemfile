@@ -1,9 +1,10 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+# source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
 gem "jekyll-theme-chirpy", "~> 6.3"
-
+gem "github-pages", "~> 228", group: :jekyll_plugins
 # Installation jekyll-compose
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
