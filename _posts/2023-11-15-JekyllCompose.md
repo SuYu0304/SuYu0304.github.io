@@ -1,7 +1,7 @@
 ---
 title: Jekyll::Compose
 author: Su Yu
-date: 2023-11-05 22:32:00 +0800
+date: 2023-11-15 11:54:00 +0800
 categories: [Jekyll, Compose]
 tags: [plug-in]
 render_with_liquid: false
