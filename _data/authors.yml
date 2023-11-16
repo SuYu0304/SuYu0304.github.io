@@ -1,0 +1,12 @@
+#  自定义作者
+<author_SuYu>:
+  name: 宿浩
+  github: SuYu0304
+  url: https://github.com/SuYu0304
+
+#  编辑页面使用以下内容指定单个author条目，或使用authors指定多个条目：
+#  ---
+#  author: <author_id>                     # for single entry
+#  # or
+#  authors: [ <author1_id>, <author2_id> ]   # for multiple entries
+#  ---

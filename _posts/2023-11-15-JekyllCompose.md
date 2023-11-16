@@ -1,6 +1,6 @@
 ---
 title: Jekyll::Compose
-author: Su Yu
+author: <author_SuYu>
 date: 2023-11-15 11:54:00 +0800
 categories: [Jekyll, Compose]
 tags: [plug-in]
